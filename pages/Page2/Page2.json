@@ -1,0 +1,98 @@
+{
+  "unpublishedPage": {
+    "name": "Page2",
+    "slug": "page2",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 380,
+          "containerStyle": "none",
+          "snapRows": 54,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 87,
+          "minHeight": 560,
+          "layout": [
+            {
+              "layoutId": "1udixjo98i",
+              "layoutType": "ALIGNED_LAYOUT_COLUMN",
+              "layout": [
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "bsj1kzhiza",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "9kst57vkh9",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "pfyiewgaet",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "krizufwnwk",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                }
+              ],
+              "layoutStyle": {
+                "border": "none",
+                "height": "100%",
+                "minHeight": "70vh",
+                "padding": "0px 0px 5rem"
+              },
+              "isDropTarget": true,
+              "isPermanent": true,
+              "childTemplate": {
+                "insertChild": true,
+                "isDropTarget": false,
+                "isPermanent": false,
+                "layout": [],
+                "layoutId": "",
+                "layoutType": "WIDGET_ROW",
+                "maxChildLimit": 1
+              }
+            }
+          ],
+          "shouldScrollContents": true,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Page2",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "gitSyncId": "6578352a82a90629bbbab153_65794a1482a90629bbbab164"
+}

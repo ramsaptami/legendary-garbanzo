@@ -1,0 +1,47 @@
+{
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "widgetName": "Zone2",
+    "isCanvas": true,
+    "displayName": "Zone",
+    "iconSVG": "/static/media/icon.daebf68875b6c8e909e9e8ac8bee0c02.svg",
+    "searchTags": [
+        "div",
+        "parent",
+        "group"
+    ],
+    "type": "ZONE_WIDGET",
+    "hideCard": false,
+    "dynamicTriggerPathList": [],
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "boxShadow"}
+    ],
+    "children": [],
+    "flexVerticalAlignment": "stretch",
+    "key": "1btab6m4h2",
+    "backgroundColor": "#b91c1c",
+    "isDeprecated": false,
+    "detachFromLayout": false,
+    "widgetId": "6efg6ra64a",
+    "isVisible": true,
+    "version": 1,
+    "parentId": "im4eusnsnu",
+    "tags": ["Layout"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "layout": [{
+        "layout": [],
+        "isPermanent": true,
+        "isContainer": true,
+        "layoutType": "ZONE",
+        "layoutStyle": {
+            "border": "none",
+            "containerType": "inline-size",
+            "height": "100%"
+        },
+        "layoutId": "s06zjtypu1",
+        "isDropTarget": true
+    }],
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+}

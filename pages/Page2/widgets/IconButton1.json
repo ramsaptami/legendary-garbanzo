@@ -1,0 +1,30 @@
+{
+    "widgetName": "IconButton1",
+    "buttonColor": "accent",
+    "displayName": "Icon button",
+    "iconSVG": "/static/media/icon.b08054586989b185a0801e9a34f8ad49.svg",
+    "searchTags": [
+        "click",
+        "submit"
+    ],
+    "type": "WDS_ICON_BUTTON_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "dynamicBindingPathList": [],
+    "isDisabled": false,
+    "key": "2fvdbeq8eg",
+    "height": 40,
+    "isDeprecated": false,
+    "iconName": "plus",
+    "widgetId": "ipfj9z84ry",
+    "minWidth": 50,
+    "isVisible": true,
+    "version": 1,
+    "parentId": "8nncsqq9ol",
+    "tags": ["Buttons"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "responsiveBehavior": "hug",
+    "buttonVariant": "filled",
+    "width": 6.25
+}

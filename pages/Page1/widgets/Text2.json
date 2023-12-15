@@ -1,0 +1,38 @@
+{
+    "widgetName": "Text2",
+    "displayName": "Text",
+    "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
+    "searchTags": [
+        "typography",
+        "paragraph",
+        "label"
+    ],
+    "type": "WDS_TEXT_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "dynamicBindingPathList": [{"key": "text"}],
+    "shouldTruncate": false,
+    "text": "Hello {{appsmith.user.name || appsmith.user.email}}",
+    "key": "568bz5fsyn",
+    "height": 160,
+    "isDeprecated": false,
+    "textAlign": "left",
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "9xsf3wpk0q",
+    "minWidth": 450,
+    "isVisible": true,
+    "textColor": "neutral",
+    "version": 1,
+    "parentId": "evle3z29y6",
+    "tags": [
+        "Suggested",
+        "Content"
+    ],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "responsiveBehavior": "fill",
+    "maxDynamicHeight": 9000,
+    "width": 6.25,
+    "fontSize": "body",
+    "minDynamicHeight": 4
+}

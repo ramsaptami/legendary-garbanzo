@@ -1,0 +1,46 @@
+{
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "widgetName": "Zone5",
+    "isCanvas": true,
+    "displayName": "Zone",
+    "iconSVG": "/static/media/icon.daebf68875b6c8e909e9e8ac8bee0c02.svg",
+    "searchTags": [
+        "div",
+        "parent",
+        "group"
+    ],
+    "type": "ZONE_WIDGET",
+    "hideCard": false,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "boxShadow"}
+    ],
+    "children": [],
+    "flexVerticalAlignment": "stretch",
+    "key": "1btab6m4h2",
+    "backgroundColor": "ghostwhite",
+    "isDeprecated": false,
+    "detachFromLayout": false,
+    "widgetId": "vxalp928qb",
+    "isVisible": true,
+    "version": 1,
+    "parentId": "im4eusnsnu",
+    "tags": ["Layout"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "layout": [{
+        "layout": [],
+        "isPermanent": true,
+        "isContainer": true,
+        "layoutType": "ZONE",
+        "layoutStyle": {
+            "border": "none",
+            "containerType": "inline-size",
+            "height": "100%"
+        },
+        "layoutId": "7gk5o6yvlq",
+        "isDropTarget": true
+    }],
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+}

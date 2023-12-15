@@ -1,0 +1,45 @@
+{
+    "widgetName": "SwitchGroup2",
+    "displayName": "Switch Group",
+    "iconSVG": "/static/media/icon.6a5a5f62190c8b357935095e946a663c.svg",
+    "type": "WDS_SWITCH_GROUP_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "dynamicBindingPathList": [],
+    "labelPosition": "left",
+    "options": [
+        {
+            "label": "Blue",
+            "value": "BLUE"
+        },
+        {
+            "label": "Green",
+            "value": "GREEN"
+        },
+        {
+            "label": "Red",
+            "value": "RED"
+        }
+    ],
+    "isDisabled": false,
+    "key": "9tejpol737",
+    "height": 200,
+    "isRequired": false,
+    "orientation": "vertical",
+    "isDeprecated": false,
+    "defaultSelectedValues": ["BLUE"],
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "l8d67ot4jw",
+    "minWidth": 450,
+    "isVisible": true,
+    "label": "Label",
+    "version": 1,
+    "parentId": "kr5rjhass5",
+    "tags": ["Toggles"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "responsiveBehavior": "fill",
+    "maxDynamicHeight": 9000,
+    "width": 15.625,
+    "minDynamicHeight": 4
+}

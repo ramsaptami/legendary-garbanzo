@@ -1,0 +1,123 @@
+{
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "mobileBottomRow": 10,
+    "widgetName": "Zone7",
+    "isCanvas": true,
+    "displayName": "Zone",
+    "iconSVG": "/static/media/icon.daebf68875b6c8e909e9e8ac8bee0c02.svg",
+    "searchTags": [
+        "div",
+        "parent",
+        "group"
+    ],
+    "topRow": 0,
+    "bottomRow": 10,
+    "parentRowSpace": 10,
+    "type": "ZONE_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 64,
+    "parentColumnSpace": 1,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "boxShadow"}
+    ],
+    "flexVerticalAlignment": "stretch",
+    "key": "1btab6m4h2",
+    "backgroundColor": "ghostwhite",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "detachFromLayout": false,
+    "widgetId": "x8ky2fl641",
+    "isVisible": true,
+    "version": 1,
+    "parentId": "e3th6pebnr",
+    "tags": ["Layout"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 0,
+    "layout": [{
+        "layout": [
+            {
+                "layout": [{
+                    "widgetId": "ak4biuk7n6",
+                    "alignment": "start",
+                    "widgetType": "WDS_TEXT_WIDGET"
+                }],
+                "allowedWidgetTypes": ["SMALL_WIDGETS"],
+                "maxChildLimit": 0,
+                "insertChild": true,
+                "layoutType": "ALIGNED_WIDGET_ROW",
+                "layoutId": "rz0i1urnhu"
+            },
+            {
+                "layout": [
+                    {
+                        "widgetId": "s5eyog7uyk",
+                        "alignment": "start",
+                        "widgetType": "WDS_BUTTON_GROUP_WIDGET"
+                    },
+                    {
+                        "widgetId": "ltd2vxhw1a",
+                        "alignment": "start",
+                        "widgetType": "WDS_PHONE_INPUT_WIDGET"
+                    }
+                ],
+                "allowedWidgetTypes": ["SMALL_WIDGETS"],
+                "maxChildLimit": 0,
+                "insertChild": true,
+                "layoutType": "ALIGNED_WIDGET_ROW",
+                "layoutId": "fxe45la8kv"
+            },
+            {
+                "layout": [{
+                    "widgetId": "w5cqptcyk3",
+                    "alignment": "start",
+                    "widgetType": "WDS_ICON_BUTTON_WIDGET"
+                }],
+                "allowedWidgetTypes": ["SMALL_WIDGETS"],
+                "maxChildLimit": 0,
+                "insertChild": true,
+                "layoutType": "ALIGNED_WIDGET_ROW",
+                "layoutId": "vs7x32p60d"
+            },
+            {
+                "layout": [{
+                    "widgetId": "1kmotq5m18",
+                    "alignment": "center",
+                    "widgetType": "WDS_BUTTON_WIDGET"
+                }],
+                "allowedWidgetTypes": ["SMALL_WIDGETS"],
+                "maxChildLimit": 0,
+                "insertChild": true,
+                "layoutType": "ALIGNED_WIDGET_ROW",
+                "layoutId": "48n10veg1s"
+            },
+            {
+                "layout": [{
+                    "widgetId": "x0lt6zulh8",
+                    "alignment": "start",
+                    "widgetType": "WDS_TABLE_WIDGET"
+                }],
+                "allowedWidgetTypes": [],
+                "maxChildLimit": 1,
+                "insertChild": true,
+                "layoutType": "ALIGNED_WIDGET_ROW",
+                "layoutId": "ouqklyy6li"
+            }
+        ],
+        "isPermanent": true,
+        "isContainer": true,
+        "layoutType": "ZONE",
+        "layoutStyle": {
+            "border": "none",
+            "containerType": "inline-size",
+            "height": "100%"
+        },
+        "layoutId": "ymmduulqww",
+        "isDropTarget": true
+    }],
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 0
+}
