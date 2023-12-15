@@ -28,7 +28,7 @@
     "rightColumn": 64,
     "detachFromLayout": false,
     "widgetId": "pfyiewgaet",
-    "zoneCount": 2,
+    "zoneCount": 4,
     "isVisible": true,
     "version": 1,
     "parentId": "0",
@@ -45,6 +45,16 @@
             },
             {
                 "widgetId": "8nncsqq9ol",
+                "alignment": "start",
+                "widgetType": "ZONE_WIDGET"
+            },
+            {
+                "widgetId": "cxiwtfni65",
+                "alignment": "start",
+                "widgetType": "ZONE_WIDGET"
+            },
+            {
+                "widgetId": "p71nwa19u2",
                 "alignment": "start",
                 "widgetType": "ZONE_WIDGET"
             }
