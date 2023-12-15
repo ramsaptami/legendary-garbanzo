@@ -1,0 +1,50 @@
+{
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "mobileBottomRow": null,
+    "widgetName": "Zone14",
+    "isCanvas": true,
+    "displayName": "Zone",
+    "iconSVG": "/static/media/icon.daebf68875b6c8e909e9e8ac8bee0c02.svg",
+    "searchTags": [
+        "div",
+        "parent",
+        "group"
+    ],
+    "bottomRow": null,
+    "type": "ZONE_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": null,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "boxShadow"}
+    ],
+    "children": [],
+    "flexVerticalAlignment": "stretch",
+    "key": "wty7xr7hf0",
+    "backgroundColor": "ghostwhite",
+    "isDeprecated": false,
+    "rightColumn": null,
+    "detachFromLayout": false,
+    "widgetId": "cxiwtfni65",
+    "isVisible": true,
+    "version": 1,
+    "parentId": "pfyiewgaet",
+    "tags": ["Layout"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "layout": [{
+        "layout": [],
+        "isPermanent": true,
+        "isContainer": true,
+        "layoutType": "ZONE",
+        "layoutStyle": {
+            "border": "none",
+            "containerType": "inline-size",
+            "height": "100%"
+        },
+        "layoutId": "ft680i5hmq",
+        "isDropTarget": true
+    }],
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+}
